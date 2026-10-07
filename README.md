@@ -140,4 +140,4 @@ SELECT
 
 serta `JOIN` untuk mengambil data mahasiswa dan kelas.
 
-# BY RYAN
+# BY RYAN ANDIYA
